@@ -47,6 +47,11 @@ let s:default_registry = {
 \       'suggested_filetypes': ['bzl'],
 \       'description': 'Format BUILD and .bzl files with buildifier.',
 \   },
+\   'cuefmt': {
+\       'function': 'ale#fixers#cuefmt#Fix',
+\       'suggested_filetypes': ['cue'],
+\       'description': 'Fix cue files with cue fmt.',
+\   },
 \   'deno': {
 \       'function': 'ale#fixers#deno#Fix',
 \       'suggested_filetypes': ['typescript'],

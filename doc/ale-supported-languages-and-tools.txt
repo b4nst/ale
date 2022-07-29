@@ -127,6 +127,8 @@ Notes:
 * CUDA
   * `clangd`
   * `nvcc`!!
+* CUE
+  * `cue-fmt-fixer`
 * Cypher
   * `cypher-lint`
 * Cython (pyrex filetype)

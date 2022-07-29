@@ -136,6 +136,8 @@ formatting.
 * CUDA
   * [clangd](https://clang.llvm.org/extra/clangd.html)
   * [nvcc](http://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html) :floppy_disk:
+* CUE
+  * [cue-fmt-fixer](https://github.com/cue-lang/cue)
 * Cypher
   * [cypher-lint](https://github.com/cleishm/libcypher-parser)
 * Cython (pyrex filetype)
